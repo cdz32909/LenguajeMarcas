@@ -1,0 +1,15 @@
+b{
+    color:blue;
+    font-size: 20pt;
+}
+
+p{
+    text-decoration: overline;
+    padding-left: 2cm;
+}
+#quieta{
+    padding-left: 0cm;
+}
+pre{
+    padding-left: 1cm;
+}
