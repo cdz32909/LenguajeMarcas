@@ -1,8 +1,29 @@
+#parrafo1{
+    font-size: 25pt;
+}
+#del1{
+    color:blue;
+    font-size: 45pt;
+    vertical-align: -25pt;
+}
+#ins1{
+    color:green;
+    vertical-align: 10pt;
+}
 del{
     color:blue;
-    font-size: 25pt;
-    vertical-align: -15pt;
+    font-size: 15pt;
+    vertical-align: -13pt;
 }
 ins{
     color:green;
+    vertical-align: 3pt;
+}
+#span1{
+    font-size: 9pt;
+    vertical-align: 1pt;
+}
+#span2{
+    font-size: 9pt;
+    vertical-align: 5pt;
 }

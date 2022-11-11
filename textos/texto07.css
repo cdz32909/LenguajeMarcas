@@ -1,0 +1,22 @@
+h2{
+    font-family: Arial;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(64, 66, 68);
+}
+h3{
+    color: red;
+    background-color: grey;
+    font-family: Arial;
+}
+p{
+    background-color: rgb(218, 214, 214);
+}
+i{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+b{
+    color: forestgreen;
+}

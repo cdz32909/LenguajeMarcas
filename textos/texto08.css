@@ -1,0 +1,47 @@
+body{
+    background-color: lightsteelblue;
+}
+h1{
+    font-family: Arial;
+    text-align: right;
+}
+#titulo{
+    color: red;
+    font-family: "Comic Sans MS";
+}
+h2{
+    font-family: Courier;
+    text-transform: uppercase;
+
+}
+p{
+    font-family: arial;
+    text-indent: 25pt;
+}
+b{
+    color: chocolate;
+}
+i{
+    color: green;
+    background-color: aliceblue;
+}
+#c01{
+    color: red;
+    font-family: "Comic Sans MS";
+}
+#c02{
+    color: red;
+    font-family: "Comic Sans MS";
+}
+#n1{
+    color: moccasin;
+}
+#n2{
+    color: moccasin;
+}
+#n3{
+    color: moccasin;
+}
+#n4{
+    color: moccasin;
+}

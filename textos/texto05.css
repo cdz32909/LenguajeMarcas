@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(175, 170, 170);
+}
+h1{
+    font-family: Arial;
+    text-align: center;
+}
+h2{
+    background-color: rgb(124, 123, 123);
+    color: azure;
+    font-family: Arial;
+}
+figcaption{
+    color: rgb(235, 234, 224);
+}
+img{
+    float: left;
+}
+i{
+    color: red;
+}
+p{
+    font-family: Arial;
+}
