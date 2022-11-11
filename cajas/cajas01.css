@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+h1{
+    font-family: arial;
+    text-align: center;
+    color: grey;
+}
+#p1{
+    background-color: lightblue;
+    border-style: dashed;
+    text-align: justify;
+    
+}
