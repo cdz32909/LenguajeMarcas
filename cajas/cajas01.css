@@ -6,9 +6,65 @@ h1{
     text-align: center;
     color: grey;
 }
+p{
+    font-family: arial;
+}
+p.señores{
+    font-family: times;
+    text-align: center;
+}
 #p1{
-    background-color: lightblue;
+    background-color: paleturquoise;
     border-style: dashed;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 22%;
+    margin-left: 22%;
+    text-align: center;
     text-align: justify;
-    
+}
+#p2{
+    background-color: rgb(221, 221, 247);
+    border-style: outset;
+    color: blue;
+    border-width: 10px;
+    border-top-color: rgb(187, 187, 240);
+    border-left-color: rgb(187, 187, 240);
+    border-right-color: blue;
+    border-bottom-color: blue;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 50%;
+    text-align: justify;
+}
+#p3{
+    background-color: rgb(233, 132, 183);
+    border-style: groove;
+    border-color: rgb(182, 20, 182);
+    color: rgb(182, 20, 182);
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 50%;
+    text-align: justify;
+}
+#p4{
+    background-color: rgb(105, 66, 143);
+    border-style: dotted;
+    border-color: deeppink;
+    border-width: 6px;
+    color: azure;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 50%;
+    text-align: justify;
+}
+#p5{
+    background-color: paleturquoise;
+    border-style: dashed;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 22%;
+    margin-left: 22%;
+    text-align: center;
+    text-align: justify;
 }

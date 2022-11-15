@@ -1,0 +1,8 @@
+div{
+    border-style: double;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+    float: left;
+}
