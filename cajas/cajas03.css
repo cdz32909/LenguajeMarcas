@@ -1,91 +1,30 @@
-#titulo{
+body{
     background-color: #fff176;
-    padding-left: 5pt;
-    padding-right: 5pt;
 }
-#edadmedia{
+#titulo{
+    background-color: white;
+    padding: 10pt;
+    float: left;
+}
+h1{
+    font-family: arial;
+    text-align: center;
+}
+h2{
+    font-family: arial;
+    color: brown;
+}
+div.edad{
     background-color:  #fbc02d;
     padding-left: 5pt;
     padding-right: 5pt;
     padding-bottom: 5pt;
+    float: left;
+    margin: 5pt;
+    width: 30%;
+    height: 50%;
 }
-#edadmoderna{
-    background-color:  #fbc02d;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 5pt;
-}
-#edadcontemporanea{
-    background-color:  #fbc02d;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 5pt;
-}
-#a577{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1287{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1542{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1782{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1812{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1819{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1900{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1911{
-    background-color: #f57f17;
-    padding-left: 5pt;
-    padding-right: 5pt;
-    padding-bottom: 1pt;
-    color:azure;
-    font-family: arial;
-}
-#a1947{
+div.años{
     background-color: #f57f17;
     padding-left: 5pt;
     padding-right: 5pt;
@@ -99,4 +38,9 @@ p{
     padding-right: 5pt;
     color: black;
     font-family: arial;
+}
+div.amarillo{
+    background-color: #ffeb3b;
+    padding: 5pt;
+    
 }
