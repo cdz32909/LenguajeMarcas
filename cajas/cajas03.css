@@ -3,7 +3,7 @@ body{
 }
 #titulo{
     background-color: white;
-    padding: 10pt;
+    padding: 8pt;
     float: left;
 }
 h1{
@@ -20,9 +20,8 @@ div.edad{
     padding-right: 5pt;
     padding-bottom: 5pt;
     float: left;
-    margin: 5pt;
-    width: 30%;
-    height: 50%;
+    margin: 4px;
+    
 }
 div.años{
     background-color: #f57f17;
@@ -31,6 +30,7 @@ div.años{
     padding-bottom: 1pt;
     color:azure;
     font-family: arial;
+  
 }
 p{
     background-color: #fdd84f;
@@ -38,6 +38,7 @@ p{
     padding-right: 5pt;
     color: black;
     font-family: arial;
+    width: 400px;
 }
 div.amarillo{
     background-color: #ffeb3b;
